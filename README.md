@@ -8,7 +8,7 @@
 
 # Contoso OpenAI RAG エージェント
 
-Azure OpenAI Service と検索拡張生成（RAG）を活用した、企業向けドキュメント Q&A インテリジェントチャットボットです。
+Azure OpenAI Service と検索拡張生成（RAG）を活用した、企業向けドキュメント Q&A インテリジェントチャットボットです。**？？？？？？？？？？？？？？**
 
 ## アーキテクチャ
 
